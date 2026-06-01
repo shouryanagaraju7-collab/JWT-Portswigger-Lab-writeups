@@ -40,4 +40,3 @@ then go to the raw tab and then copy the session cookie and paste it in the web 
 now you have logged in as the admin and then you can delete carlos by clicking on the admin panel
 
 ![alt text](image-9.png)
-
